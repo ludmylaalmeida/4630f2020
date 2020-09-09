@@ -1,0 +1,60 @@
+Assignment 1: Survey
+Student: Ludmyla Almeida
+
+Name: Robyn B
+Problem: Sending/transferring/having access to your medical records easily. Most 
+         doctors only accept faxes
+App found: FollowMyHeath
+Likes: Easy to see appointments and results
+Dislikes: Terrible/outdated looks, crashes a lot, not a standard in the industry
+Improvements: They need to update the overall look of the app and make it easier to use
+Age: 46
+Gender: Female
+Education/Occupation: Safety Officer at a hospital
+Comments
+
+Name: Vanessa B
+Problem: Sending pdf files as fax from your phone
+App found: Fax for free
+Likes: Easy design and easy to use
+Dislikes: It says it is free in the name but you have to pay 20 dollars a month to use it.  
+            The UX is not the best
+Improvements: Make it clear that its a paid app.
+Age: 30
+Gender: Female
+Education/Occupation: Co-founder of a startup
+Comments
+
+Name: Muigai U
+Problem: Need an easier way to find restaurants with vegan/restrictive menus
+App found: HappyCow
+Likes: easy to use, like the name
+Dislikes: not too many options, hard to add restaurants you found it
+Improvements:
+Age: 26
+Gender: Male
+Education/Occupation: Alexa software developer
+Comments
+
+Name: Muigai U
+Problem: App that controls the groceries list to reduce food waste
+App found: Mealime
+Likes: Have good recipes, good with food waste they make sure you reutilize the ingredients.
+Dislikes: New recipes are not being added even though the app is paid
+Improvements:
+Age: 26
+Gender: Male
+Education/Occupation: Alexa software developer
+Comments
+
+Name: Braulio D
+Problem: Easy way to track diet without entering what you ate
+App found: Myfitnesspal 
+Likes: Scan barcode 
+Dislikes: You have Ads on a paid app, not the best UX/UI
+Improvements: Need to improve the overall utilization experience. Need an easier way to enter food that
+            doesn't have a barcode.
+Age: 30
+Gender: Male
+Education/Occupation: Software Engineer
+Comments
