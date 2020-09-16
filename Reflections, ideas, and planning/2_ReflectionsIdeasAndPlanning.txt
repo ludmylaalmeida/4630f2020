@@ -1,0 +1,19 @@
+Ludmyla Almeida
+Reflections, ideas, and planning
+September 16, 2020
+
+1- I'm interested in creating an AI Personal Assistant that can help people with their daily tasks. Like replying to messages, writing emails, scheduling meetings, etc.
+
+2- I think the best way is to have some parts of the app to be free and more advanced ones that could
+improve the experience to be paid. Many applications do that and it works. After you become a power user
+in the app, you may need more access and decides to pay.
+
+3- Wayfair is one of my favorite apps for shopping. It has a better UX than its competitors like Amazon and Overstock.
+The design is very clean and clever. It's very easy to navigate through the categories and the product page is very intuitive,
+you have access to all the information you need. The reviews section is very meaningful and helpful. It requires
+less scroll than many other apps. They are also constantly updating the app. They are also a top #4 app in the Benchmark E-commerce
+UX case studies.
+
+4- I think the class discussions have made me realize that we have a lot of apps out there that have original ideas,
+but terrible implementation. I also think that apps that have some type of AI are more useful, which is leading
+me to the right path to make a final project decision.
