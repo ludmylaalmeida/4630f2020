@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ludmyla Almeida App</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_resume">Resume</string>
+    <string name="menu_about">About Me</string>
+
+    <string name="title_welcome">Welcome</string>
+    <string name="illustration">Illustration</string>
+
+    <string name="name">Ludmyla Almeida</string>
+    <string name="birthday">April 22, 1996</string>
+    <string name="language">Speaks English and Portuguese</string>
+    <string name="from">From Vitoria, Brazil</string>
+    <string name="lives">Lives in Lowell, Massachusetts</string>
+    <string name="hobby">Favorite hobby is hiking</string>
+    <string name="season">Favorite season is summer</string>
+    <string name="book">Favorite author is Toni Morrison</string>
+    <string name="website">ludmylaalmeida.com</string>
+    <string name="email">almeida.ludmyla@gmail.com</string>
+
+    <string name="download">Download Resume</string>
+    <string name="technology">Thanks to technology, now you can access my resume online</string>
+    <string name="pdf_option">Or you can open as a pdf</string>
+    <string name="linkedin">linkedin</string>
+    <string name="github">github</string>
+</resources>
