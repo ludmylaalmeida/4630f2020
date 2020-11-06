@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9C6BC1</color>
+    <color name="colorPrimaryDark">#BEBFCF</color>
+    <color name="colorAccent">#BEBFCF</color>
+
+    <color name="red">#FE623E</color>
+    <color name="green">#23E1A7</color>
+    <color name="black">#242424</color>
+    <color name="lilac">#9C77EB</color>
+    <color name="white">#fff</color>
+
+    <color name="background">#19233C</color>
+
+    <color name="toggle_hover">@color/gray</color>
+    <color name="toggle_normal">#2F364C</color>
+    <color name="toggle_active">@color/silver</color>
+    <color name="toggle_normal_off">@color/darkgray</color>
+
+    <color name="gainsboro">#DCdCdC</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="darkgray">#a9a9a9</color>
+    <color name="gray">#808080</color>
+</resources>

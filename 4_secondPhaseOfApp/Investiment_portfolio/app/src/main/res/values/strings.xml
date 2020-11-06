@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Investiment_portfolio</string>
+    <string name="title_home">Accounts</string>
+    <string name="title_portfolio">Portfolio</string>
+    <string name="title_account">Menu</string>
+    <string name="title_activity_tab_bar">TabBar</string>
+
+    <string name="tab_text_1">Overview</string>
+    <string name="tab_text_2">Watchlist</string>
+
+    <string name="broker">Individual Brokerage - 1890</string>
+    <string name="popular">Popular</string>
+    <string name="investiment">My Investiments</string>
+    <string name="tesla">TSLA</string>
+    <string name="google">GOOGL</string>
+    <string name="amazon">AMZN</string>
+    <string name="apple">AAPL</string>
+
+    <string name="net">Net Account Value</string>
+    <string name="money">$18,503.64</string>
+
+    <string name="cash">Cash</string>
+    <string name="cash_value">$1,009.87</string>
+
+    <string name="gain">Total Gain</string>
+    <string name="gain_value">$-$25.50</string>
+    <string name="gain_percentage">(-0.30%)</string>
+
+    <string name="day">Day\'s Gain</string>
+    <string name="day_value">-$888.82</string>
+    <string name="day_percentage">(-10.49%)</string>
+
+    <string name="dow">DOW</string>
+    <string name="dow_value">$27,480.03</string>
+    <string name="dow_percentage">554.98 (2.06%)</string>
+
+    <string name="nasdaq">NASDAQ</string>
+    <string name="nasdaq_value">11,160.572</string>
+    <string name="nasdaq_percentage">202.96 (1.85%)</string>
+
+    <string name="sp500">S&amp;P 500</string>
+    <string name="sp500_value">3,369.02</string>
+    <string name="sp500_percentage">58.78 (1.78%)</string>
+
+    <string name="name_label">Your name</string>
+    <string name="name">Ludmyla Almeida</string>
+
+    <string name="account">Account</string>
+    <string name="image">Profile image</string>
+
+    <string name="password_label">Password</string>
+    <string name="password">********</string>
+
+    <string name="email_label">Email</string>
+    <string name="email">almeida.ludmyla@gmail.com</string>
+
+    <string name="logout">Log Out</string>
+
+    <string name="usd">$</string>
+</resources>
